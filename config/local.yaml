@@ -1,0 +1,6 @@
+env: "local"
+storage_path: "/Users/dev/go/src/currency-service/storage/storage.db"
+http_server:
+  address: "localhost:8088"
+  timeout: 4s
+  idle_timeout: 60s
